@@ -2,6 +2,10 @@ body{
     margin: 20px 60px;
 }
 
+.heading{
+  margin: 30px 10px;
+}
+
 .colors {
   border: 2px solid grey;
   padding-bottom: 40px;
